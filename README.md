@@ -16,10 +16,8 @@ This is a free and simple solution to host a database online (not sponsored, I s
 
 If you've skipped the above stuff....
 
-RUN THE runThis.exe FILE TO TEST THE APPLICATION.
-
-CHECK THE conn_JDBC_remote.java FOR THE APPLICATION CODE.
-
+RUN THE runThis.exe FILE TO TEST THE APPLICATION.     
+CHECK THE conn_JDBC_remote.java FOR THE APPLICATION CODE.     
 CHECK THE remote_man.sql FOR THE SQL QUERY SCRIPT.
 
 Thank you for visiting!
