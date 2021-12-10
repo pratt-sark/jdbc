@@ -1,14 +1,17 @@
-#Codes regarding JDBC 
+#JDBC 
 
 Brief: Demonstration of a connection to a remote database using JDBC. 
-The database contains some of the members of the current Manchester United squad.
 
-_____WHICH FILES TO OPEN AND/OR DOWNLOAD_________
+Just for info: The database contains some of the members of the current Manchester United squad.
+
+_____WHICH FILES TO OPEN AND/OR DOWNLOAD_______
+
 File to be downloaded and executed for testing: *runThis.exe*
 File having the main java application code: *conn_JDBC_remote.java*
 File having the SQL Script I executed in the remote database: *remote_man.sql*
 
 Remote database server is provided by: https://www.freemysqlhosting.net
+
 This is a free and simple solution to host a database online (not sponsored, I swear)
 
 If you've skipped the above stuff....
