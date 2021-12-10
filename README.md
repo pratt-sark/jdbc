@@ -4,8 +4,7 @@ Brief: Demonstration of a connection to a remote database using JDBC.
 
 Just for info: The database contains some of the members of the current Manchester United squad.
 
-
-_____WHICH FILES TO OPEN AND/OR DOWNLOAD_______
+_WHICH FILES TO OPEN AND/OR DOWNLOAD_
 
 File to be downloaded and executed for testing: *runThis.exe*
 File having the main java application code: *conn_JDBC_remote.java*
