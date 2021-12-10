@@ -7,9 +7,7 @@ Just for info: The database contains some of the members of the current Manchest
 ___WHICH FILES TO OPEN AND/OR DOWNLOAD___
 
 File to be downloaded and executed for testing: *runThis.exe*
-
 File having the main java application code: *conn_JDBC_remote.java*
-
 File having the SQL Script I executed in the remote database: *remote_man.sql*
 
 Remote database server is provided by: https://www.freemysqlhosting.net
