@@ -1,6 +1,6 @@
 # JDBC
 
-### Brief: Demonstration of a connection to a remote database using JDBC. 
+### Demonstration of a connection to a remote database using JDBC. 
 
 Just for info: The database contains some of the members of the current Manchester United squad.
 
