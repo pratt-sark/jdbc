@@ -1,4 +1,4 @@
-#JDBC 
+#JDBC
 
 Brief: Demonstration of a connection to a remote database using JDBC. 
 
