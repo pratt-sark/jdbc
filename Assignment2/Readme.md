@@ -17,3 +17,4 @@
 
 ## SQL Query Script:
 **_remote_man.sql_**
+<ins>text</ins>
