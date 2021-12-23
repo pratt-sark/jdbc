@@ -16,5 +16,4 @@
 #### File required: **_7.txt_**
 
 ## SQL Query Script:
-**_remote_man.sql_**
-<ins>text</ins>
+**_<ins>remote_man.sql</ins>_**
