@@ -1,9 +1,9 @@
 # File List with Description
 
 ## Program 1
-#### Code:            _**prepState_rem.java**_
-#### Application:     _**prog1.exe**_
-#### File required:   _**None**_
+#### Code:   **prepState_rem.java**
+#### Application: _**prog1.exe**_
+#### File required: _**None**_
 
 ## Program 2
 #### Code: _rwBlob_rem.java_
