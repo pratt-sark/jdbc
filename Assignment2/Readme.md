@@ -11,7 +11,7 @@
 #### File required: 7.jpeg
 
 ## Program 3
-#### Code: #### rwClob_rem.java
+#### Code: rwClob_rem.java
 #### Application: prog3.exe
 #### File required: 7.txt
 
