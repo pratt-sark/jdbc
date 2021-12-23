@@ -1,19 +1,19 @@
 # File List with Description
 
-## Program 1
-#### Code:   **_prepState_rem.java_**
-#### Application: **_prog1.exe_**
-#### File required: **_None_**
+## Program 1 (Prepared Statements)
+#### Code:   **_<ins>prepState_rem.java</ins>_**
+#### Application: **_<ins>prog1.exe</ins>_**
+#### File required: _None_
 
-## Program 2
-#### Code: **_rwBlob_rem.java_**
-#### Application: **_prog2.exe_**
-#### File required: **_7.jpeg_**
+## Program 2 (BLOB)
+#### Code: **_<ins>rwBlob_rem.java</ins>_**
+#### Application: **_<ins>prog2.exe</ins>_**
+#### File required: **_<ins>7.jpeg</ins>_**
 
-## Program 3
-#### Code: **_rwClob_rem.java_**
-#### Application: **_prog3.exe_**
-#### File required: **_7.txt_**
+## Program 3 (CLOB)
+#### Code: **_<ins>rwClob_rem.java</ins>_**
+#### Application: **_<ins>prog3.exe</ins>_**
+#### File required: **_<ins>7.txt</ins>_**
 
 ## SQL Query Script:
 **_<ins>remote_man.sql</ins>_**
